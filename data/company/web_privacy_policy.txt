@@ -1,0 +1,44 @@
+Title: Privacy Policy
+Source: https://techcadd.com/privacy-policy.php
+
+Privacy Policy
+1. Information We Collect
+We may collect and process the following types of information:
+a. Personal Information
+When you fill out a form, register for a course, contact us, or interact with our services, we may collect:
+● Name
+● Email address
+● Phone number
+● Mailing address
+● Payment information (via secure third-party processors)
+● Any other information you voluntarily provide
+b. Non-Personal Information
+We may also collect non-identifiable information automatically when you use our website, including:
+● IP address
+● Browser type and version
+● Device type
+● Pages visited and time spent
+● Referring URL
+2. How We Use Your Information
+We use your information for the following purposes:
+● To provide and manage our services
+● To communicate with you regarding inquiries, updates, and promotional offers
+● To improve our website and user experience
+● To process payments and transactions
+● To comply with legal obligations
+3. Data Security
+We implement appropriate technical and organizational measures to protect your data from unauthorized access, alteration, or disclosure. However, no online platform can guarantee absolute security.
+4. Cookies and Tracking Technologies
+TechCadd uses cookies and similar technologies to enhance your browsing experience. You can control cookie settings through your browser.
+5. Your Rights
+Depending on your location, you may have rights under privacy laws such as:
+● Access to your data
+● Correction of inaccurate data
+● Deletion of your data
+● Objection to processing
+● Data portability
+To exercise any of these rights, please contact us at info@techcadd.com
+6. Changes to This Policy
+We may update this Privacy Policy from time to time. Updates will be posted on this page with the revised effective date.
+7. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at: info@techcadd.com

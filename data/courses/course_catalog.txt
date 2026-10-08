@@ -1,0 +1,36 @@
+TechCADD Course Catalog (as listed on techcadd.com)
+
+PROGRAMMING AND DEVELOPMENT
+Python Course (trending), Java Course, C Course, C++ Course, Kotlin Course (mobile apps), Web Designing Course, Web Development Course, MERN Stack Course, MEAN Stack Course, PHP Full Stack Course (trending), UI/UX Design (Figma and Adobe XD).
+
+DIGITAL MARKETING
+Digital Marketing Course (trending), Social Media Marketing (Facebook, Instagram, LinkedIn), Google Ads / PPC Campaigns, WordPress Course, Shopify Course (e-commerce), Search Engine Optimization (SEO) Course.
+
+ARTIFICIAL INTELLIGENCE AND DATA
+Artificial Intelligence Course (trending), Machine Learning Course, Deep Learning Course, Data Science Course (trending), Data Analytics Course, Power BI Course, Tableau Course, Python for AI, ChatGPT and Generative AI, NLP (chatbots and AI-driven text tools).
+
+CYBER SECURITY, CLOUD AND DEVOPS
+Cyber Security Course (trending), Ethical Hacking Course (trending), Network Security, Cloud Security, Linux Course, Linux Security, Penetration Testing, Cloud Computing (AWS / Azure / GCP), AWS Training, DevOps (CI/CD, Docker, Kubernetes basics), Jenkins, Terraform.
+
+CIVIL / ARCHITECTURE / MECHANICAL (CAD / CAM)
+AutoCAD, SolidWorks, 3Ds Max, Revit, CATIA, Fusion 360, CAM / CNC programming.
+
+INTERNSHIP AND INDUSTRIAL TRAINING PROGRAMS
+Industrial Training (trending), 45 Days Industrial Training (trending), 6 Months Industrial Training, 6 Weeks Industrial Training (trending), PHP Training, Django Training, SEO Training, React Training.
+
+AFTER 12TH PROGRAMS
+6 Months Certificates:
+- Advanced Certificate in Digital Marketing and Communication
+- Professional Certificate Python Programming Course
+- Certificate Course Program in ML and AI
+- Certificate Course in Cyber Security
+1 Year Programs:
+- Advanced Certificate Program in Generative AI
+- Professional Certificate Program in Cloud Computing and DevOps
+- Advanced Certificate in Artificial Intelligence and Data Science
+- Certificate Course in Machine Learning and Deep Learning
+- Advanced Program in Cybersecurity and Ethical Hacking
+
+Technologies covered include C, C++, C#, Java, Python, JavaScript, TypeScript, PHP, React, Vue, Angular, Node.js, Django, Flask, Spring Boot, Laravel, MySQL, PostgreSQL, MongoDB, Git, Docker, Kubernetes, AWS, Azure, Google Cloud, TensorFlow and PyTorch.
+
+Course fees, exact durations and batch timings are not listed in this document. Contact TechCADD for current details.
